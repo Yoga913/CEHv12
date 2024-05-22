@@ -4,7 +4,7 @@
 
 - :notebook: Catatan studi untuk ujian EC-Council Certified Ethical Hacker (C|EH) v12 oleh [Yoga913](https://github.com/Yoga913).
 
-- :information_source: Catatan ini berisi referensi ke sumber eksternal serta laboratorium yang relevan untuk memperkuat konsep pembelajaran modul.
+- information_source: Catatan ini berisi referensi ke sumber eksternal serta laboratorium yang relevan untuk memperkuat konsep pembelajaran modul.
 
 ## Modules
 
@@ -52,3 +52,4 @@
 - ## [IoT and OT Hacking](Kesimpulan/IoT_and_OT_Hacking.md)
 - ## [Cloud Computing](Kesimpulan/Cloud_Computing.md)
 - ## [Cryptography](Kesimpulan/Cryptography.md)
+
