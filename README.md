@@ -28,3 +28,27 @@
 - [Module 18: IoT and OT Hacking](module_18)
 - [Module 19: Cloud Computing](module_19)
 - [Module 20: Cryptography](module_20)
+
+## Kesimpulan & Tugas lab
+
+<br>
+
+- ## [Footprinting and Reconnaissance](Kesimpulan/Footprinting_and_Reconnaissance.md)
+- ## [Scanning Networks](Kesimpulan/Scanning_Networks.md)
+- ## [Enumeration](Kesimpulan/Enumeration.md)
+- ## [Vulnerability Analysis](Kesimpulan/Vulnerability_Analysis.md)
+- ## [System Hacking](Kesimpulan/System_Hacking.md)
+- ## [Malware Threats](Kesimpulan/Malware_Threats.md)
+- ## [Sniffing](Kesimpulan/Sniffing.md)
+- ## [Social Engineering](Kesimpulan/Social_Engineering.md)
+- ## [Denial-of-Service](Kesimpulan/Denial_of_Service.md)
+- ## [Session Hijacking](Kesimpulan/Session_Hijacking.md)
+- ## [Evading IDS, Firewalls, and Honeypots](Kesimpulan/Evading_IDS_Firewalls_and_Honeypots.md)
+- ## [Hacking Web Servers](Kesimpulan/Hacking_Web_Servers.md)
+- ## [Hacking Web Applications](Kesimpulan/Hacking_Web_Applications.md)
+- ## [SQL Injection](Kesimpulan/SQL_Injection.md)
+- ## [Hacking Wireless Networks](Kesimpulan/Hacking_Wireless_Networks.md)
+- ## [Hacking Mobile Platforms](Kesimpulan/Hacking_Mobile_Platforms.md)
+- ## [IoT and OT Hacking](Kesimpulan/IoT_and_OT_Hacking.md)
+- ## [Cloud Computing](Kesimpulan/Cloud_Computing.md)
+- ## [Cryptography](Kesimpulan/Cryptography.md)
